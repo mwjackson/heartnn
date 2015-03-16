@@ -1,0 +1,4 @@
+cd heartnn/
+conda create -p env/ numpy scipy pip scikit-learn
+source activate env/
+pip install pybrain
